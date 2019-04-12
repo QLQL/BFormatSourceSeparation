@@ -8,8 +8,6 @@ This code is implemented in Python, using [Keras](https://keras.io/) with [Tenso
 
 First run codes in audioProcess to divide all the data to train and testing data, and some temporary log files TIMITtraniningSignalList.pkl and TIMITtestingSignalList.pkl will be generated. 
 
-The feature extraction and parameter estimation process for each simulated binaural mixture can be hinted from DataGenerator.py, which can be easily implemented in Matlab
-
 
 ## Train
 
